@@ -12,4 +12,4 @@ fs.readFile('fileB','utf8', function(err, result){
 console.log(result);   
 });
 console.log('C');
-
+ 
